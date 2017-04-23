@@ -1,0 +1,10 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+
+PostCodeAPI/packages
+PostCodeAPI/.vs
+/Metadata
+PostCodeAPI/PostCodeAPI/Properties/PublishProfiles
+PostCodeAPI/PostCodeAPI/bin
+PostCodeAPI/PostCodeAPI/obj
+PostCodeAPI/PostCodeAPI.Tests/bin
+PostCodeAPI/PostCodeAPI.Tests/obj
